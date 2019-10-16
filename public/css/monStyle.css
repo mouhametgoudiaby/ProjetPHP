@@ -1,0 +1,64 @@
+body{
+    background-color: #F1F1F1;
+}
+th{
+    background-color: #7451EB;
+    text-align: center;
+}
+label,h2
+{
+    font-weight: 700;
+}
+.bg-color
+{
+    background-color: #7451EB;
+    
+}
+li a
+{
+    color:whitesmoke;
+    font-weight: 700;
+}
+.moncard{
+    margin-bottom: 50px;
+}
+.monpanel
+{
+    background-color: #7451EB;
+}
+.deconnexion,.profil
+{
+    color:whitesmoke;
+    font-weight: 700;
+}
+img.logo
+{
+    height: 130px;
+    margin: 30px;
+}
+.inputSearch
+{
+    width: 150px;
+}
+button.rechercher
+{
+    background-color: #7451EB;
+    color: #FFFFFF;
+    font-size: 1.0em;
+    border-radius: 10px;
+    height: 35px;
+    font-weight: 700;
+    margin: 5px;
+}
+.lienAdd
+{
+    border:1px solid #7451EB;
+    color:#7451EB;
+    padding: 5px;
+    border-radius: 10px/10px;
+    margin: 5px;
+}
+span a
+{
+    color: #7451EB;
+}
